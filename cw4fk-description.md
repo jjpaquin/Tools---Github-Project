@@ -1,10 +1,10 @@
-Name: 
+Name:  
 Chenelle Williams  
 
-Computing ID: 
+Computing ID:  
 cw4fk  
 
-Link: 
+Link:  
 https://leetcode.com/problems/reverse-string/  
 
 Description:  
